@@ -47,7 +47,7 @@ There will be only one line which satisfies the above criteria
 5.	No relationship (correlation) among the independent variables
 
 **How to check these assumptions:**  
-1.	For error, to check normal distribution – we can use histogram
+1.	For error, to check normal distribution – we can use histogram, QQNorm Plot & Shapiro Wilk Normality Test  
 2.	For mean 0 assumption, plot residual plot to see how the residuals are distributed around 0.
 3.	For constant SD, we again look at residual plot. If there is trend (for example, a constant increase), the assumption is violated. This violation is called Heteroscedasticity. 
  
