@@ -13,10 +13,10 @@ If you have multiple predictors:
 
 Linear Regression is a statistical approach which models a linear relationship between the independent and the dependent variable. 
 
-**Process Equation:  **
+**Process Equation:**  
 Y = β0 + β1X1 + β2X2 + …. + βkXk + Ɛ (variability in the process)
 
-**Fitted Model to the sample:  **
+**Fitted Model to the sample:**  
 Ŷ = β̂0 + β̂1X1 + β̂2X2 + ……+ β̂kXk
 All the above are the estimates to the corresponding variables
 
@@ -29,15 +29,15 @@ There will be only one line which satisfies the above criteria
 
 ## Inference:
 
-**Model Inference:  **
-*Null Hypothesis:* There is no relationship with any of the independent variable to the dependent variable i.e., β0 = β1 = β2 =…. βk = 0
-*Alternative Hypothesis:* There is at least one independent variable which has relation with the dependent variable i.e., βi ≠ 0
-*Statistical Test:* Anova Test using F Statistic
+**Model Inference:**  
+*Null Hypothesis:* There is no relationship with any of the independent variable to the dependent variable i.e., β0 = β1 = β2 =…. βk = 0  
+*Alternative Hypothesis:* There is at least one independent variable which has relation with the dependent variable i.e., βi ≠ 0  
+*Statistical Test:* Anova Test using F Statistic  
 
-**Individual Predictor Inference:  **
-*Null Hypothesis:* There is no relationship with this independent variable to the dependent variable i.e., βi = 0
-*Alternative Hypothesis:* There is a relationship with this independent variable to the dependent variable i.e., βi ≠ 0
-*Statistical Test:* T-Test
+**Individual Predictor Inference:**  
+*Null Hypothesis:* There is no relationship with this independent variable to the dependent variable i.e., βi = 0  
+*Alternative Hypothesis:* There is a relationship with this independent variable to the dependent variable i.e., βi ≠ 0  
+*Statistical Test:* T-Test  
 
 ## Assumptions:
 1.	Random Sampling: Our sampling data is unbiased 
@@ -46,7 +46,7 @@ There will be only one line which satisfies the above criteria
 4.	A linear relationship between the Independent variables and dependent variables
 5.	No relationship (correlation) among the independent variables
 
-**How to check these assumptions:  **
+**How to check these assumptions:**  
 1.	For error, to check normal distribution – we can use histogram
 2.	For mean 0 assumption, plot residual plot to see how the residuals are distributed around 0.
 3.	For constant SD, we again look at residual plot. If there is trend (for example, a constant increase), the assumption is violated. This violation is called Heteroscedasticity. 
