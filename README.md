@@ -1,2 +1,2 @@
 # Machine-Learning-Techniques
-All Machine Learning techniques explanation with python and R codes.
+This repository contains all the Machine Learning techniques explanation with python and R snippet of codes.
