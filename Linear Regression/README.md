@@ -21,11 +21,11 @@ Ŷ = β̂0 + β̂1X1 + β̂2X2 + ……+ β̂kXk
 All the above are the estimates to the corresponding variables
 
 ## Finding the best line:  
-There can be many straight lines passing through the sample points. So, how to come up with our best line?
-a.)	Calculate the deviation of Y estimate and Y actual for every data point
-b.)	Calculate the sum of squares of these deviations
-c.)	Minimize this error
-There will be only one line which satisfies the above criteria
+There can be many straight lines passing through the sample points. So, how to come up with our best line?  
+a.)	Calculate the deviation of Y estimate and Y actual for every data point  
+b.)	Calculate the sum of squares of these deviations  
+c.)	Minimize this error  
+There will be only one line which satisfies the above criteria  
 
 ## Inference:
 
