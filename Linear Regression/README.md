@@ -42,7 +42,7 @@ There will be only one line which satisfies the above criteria
 ## Assumptions:
 1.	Random Sampling: Our sampling data is unbiased 
 2.	Stability: The process is stable during the data collection and the analysis period
-3.	E is normally distributed with mean 0 and SD Sigma
+3.	Ɛ is normally distributed with mean 0 and SD Sigma
 4.	A linear relationship between the Independent variables and dependent variables
 5.	No relationship (correlation) among the independent variables
 
