@@ -2,12 +2,12 @@
 
 ## Basic Modeling Definitions:
 
-**Parametric:** models ﬁrst assume about a function form of the relation between the dependent and the independent variables. Then fit the model. If our assumption was wrong, it will lead to bad results. 
+**Parametric:** models ﬁrst assume about a function form of the relation between the dependent and the independent variables. Then fit the model. If our assumption was wrong, it will lead to bad results. \
 **Non-Parametric:** models that don’t make any assumptions about function, which allows them to ﬁt a wider range of functions/shapes; but may lead to overﬁtting 
-**Supervised:** models that ﬁt independent variables to a known dependent variable
-**Unsupervised:** models that take in independent variables, but they do not have an associated output to supervise the training. The goal is to understand relationships between the variables or observations. 
-**Deterministic:** models that produce a single “prediction” e.g. yes or no, true or false 
-**Stochastic:** models that produce probability distributions over possible events 
+**Supervised:** models that ﬁt independent variables to a known dependent variable. \
+**Unsupervised:** models that take in independent variables, but they do not have an associated output to supervise the training. The goal is to understand relationships between the variables or observations. \
+**Deterministic:** models that produce a single “prediction” e.g. yes or no, true or false. \ 
+**Stochastic:** models that produce probability distributions over possible events. \
 
 ## Linear Regression
 
