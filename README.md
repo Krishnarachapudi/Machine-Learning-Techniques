@@ -7,7 +7,7 @@
 **Supervised:** models that ﬁt independent variables to a known dependent variable. \
 **Unsupervised:** models that take in independent variables, but they do not have an associated output to supervise the training. The goal is to understand relationships between the variables or observations. \
 **Deterministic:** models that produce a single “prediction” e.g. yes or no, true or false. \
-**Stochastic:** models that produce probability distributions over possible events. \
+**Stochastic:** models that produce probability distributions over possible events.
 
 ## Linear Regression
 
